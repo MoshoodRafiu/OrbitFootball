@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+nav, .bg{
+    background-color: rgb(19, 187, 159);
+}
+.underline{
+    width: 120px;
+    height: 2px;
+    padding: 0;
+}
+#carousel{
+    background: rgb(19, 187, 159);
+}
+.footer-height{
+    height: 30vh;
+}
+.table-border table, tr, th, td{
+    border: solid 0.1px;
+    border-color: rgb(185, 185, 185);
+    padding: 10px;
+}
+table{
+    margin-bottom: 20px;
+}
+th{
+    background: rgb(19, 187, 159);
+    color: white;
+}
+.bg-grey{
+    background: rgb(238, 237, 237);
+
+}
+.result{
+    background: url(../images/bg1.jpg)center/cover no-repeat fixed !important;   
+}
+.match{
+    background: url(../images/bg2.jpg)center/cover no-repeat fixed !important;
+}
+.main table tr td, .main table tr{
+    border: 0px;
+}
